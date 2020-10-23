@@ -1,4 +1,5 @@
 # Steam CS:GO Trading Website Frontend Template
+### About  
 
 Developed in 2020.  
 This is a common frontend template of website for trading between Steam community.  
