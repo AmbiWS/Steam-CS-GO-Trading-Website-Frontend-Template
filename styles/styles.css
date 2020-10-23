@@ -1,0 +1,1364 @@
+#page-language {
+	
+	margin-right: 20px;
+	
+}
+
+.lead-color, .active > a {
+	
+	color: #0074D9 !important;
+	
+}
+
+.gold-color {
+	
+	color: darkgoldenrod;
+	
+}
+
+.bold-navtext, #brand-text {
+	
+	font-weight: bold !important;
+	
+}
+
+#footer-content {
+	
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	background: rgba(37, 37, 37, 0.7);
+	
+}
+
+body {
+	
+	background-image: url('../src/img/bg-min.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-width: 460px;
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	
+}
+
+.ftcc, .ftci, .ftcb {
+	
+	color: whitesmoke;
+	
+}
+
+.ftcc, .ftci {
+	
+	margin-top: 40px;
+	
+}
+
+.ftcb {
+	
+	margin-top: 25px;
+	font-size: 200%;
+	text-align: center;
+	
+}
+
+.ftcc {
+	
+	padding-right: 20px;
+	text-align: right;
+	
+}
+
+.ftci {
+	
+	padding-left: 20px;
+	text-align: left;
+	
+}
+
+#contact-text {
+	
+	padding-right: 20px;
+	
+}
+
+#intro-jumbo {
+	
+	position: relative;
+	background-image: url("../src/img/jumbo-bg.jpg");
+  background-size: 1980px 700px;
+	height: 700px;
+	width: 100%;
+	background-repeat: no-repeat;
+	text-align: center;
+	
+}
+
+#jumbo-footer {
+	
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 110px;
+	background: rgba(37, 37, 37, 0.8);
+	color: aliceblue;
+	font-weight: bold;
+	font-size: 150%;
+	
+}
+
+p {
+	
+	margin: 0;
+	padding: 0;
+	
+}
+
+.clear-all {
+	
+	clear: both;
+	
+}
+
+#trades-data {
+	
+	font-weight: normal;
+	padding-left: 15px;
+	transition: color 0.4s ease;
+	color: aliceblue;
+	
+}
+
+#online-users-img {
+	
+	margin-top: 5px;
+	margin-left: -10px;
+	
+}
+
+#r-users-data {
+	
+	font-weight: normal;
+	padding-left: 15px;
+	transition: color 0.4s ease;
+	color: aliceblue;
+	
+}
+
+#o-users-data {
+	
+	font-weight: normal;
+	padding-left: 10px;
+	position: relative;
+	top: 3px;
+	transition: color 0.4s ease;
+	color: aliceblue;
+	
+}
+
+#jumbo-content {
+	
+	text-align: left;
+	color: whitesmoke;
+	margin-top: 50px;
+	margin-left: 20px;
+	
+}
+
+h1 {
+	
+	font-size: 300%;
+	
+}
+
+.separate-30 {
+	
+	margin-top: 30px;
+	
+}
+
+#choose-text-container {
+	
+	margin-left: 100px;
+	
+}
+
+.choose-text {
+	
+	padding-left: 15px;
+	position: relative;
+	top: 3px;
+	font-size: 150%;
+	
+}
+
+#signup-div {
+	
+	margin-top: 64px;
+	margin-left: 100px;
+	
+}
+
+#to-trade {
+	
+	margin-top: 15px;
+	width: 445px;
+	background: rgba(0, 116, 217, 0.7);
+	text-align: center;
+	font-weight: bold;
+	padding: 7px;
+	
+}
+
+#to-trade:hover {
+	
+	background: rgba(0, 100, 190, 0.7);
+	cursor: pointer;
+	
+}
+
+#to-trade-button {
+	
+	color: whitesmoke;
+	margin-top: 10px;
+	font-size: 150%;
+	
+}
+
+#to-trade-button:hover {
+	
+	text-decoration: none;
+	
+}
+
+#close-jumbo-content {
+	
+	float: right;
+	position: relative;
+	top: -40px;
+	margin-right: 10px;
+	background: url('../src/img/close.png');
+	background-size: 28px 28px;
+	height: 28px;
+	width: 28px;
+	
+}
+
+#close-jumbo-content:hover {
+	
+	cursor: pointer;
+	background: url('../src/img/close-c.png');
+	background-size: 28px 28px;
+	
+}
+
+#main-container {
+	
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+}
+
+#user-container {
+	
+	width: 100%;
+
+	
+}
+
+#info-container {
+	
+	width: 100%;
+
+	
+}
+
+#bots-container {
+	
+	width: 100%;
+
+	
+}
+
+.left {
+	
+	float: left;
+	
+}
+
+.right {
+	
+	float: right;
+	
+}
+
+.center {
+	
+	float: none;
+	text-align: center;
+	
+}
+
+.main-text-bold {
+	
+	color: azure;
+	font-weight: bold;
+	font-size: 130%;
+	
+}
+
+.main-text {
+	
+	color: azure;
+	font-size: 130%;
+	
+}
+
+#user-offerbox-header, #bots-offerbox-header {
+	
+	width: 100%;
+	height: 60px;
+	background: rgba(20, 19, 26, 1);
+	padding: 15px 25px 0 25px;
+	
+}
+
+#user-offerbox-body, #bots-offerbox-body {
+	
+	width: 100%;
+	height: 300px;
+	background: rgba(20, 19, 26, 0.4);
+	
+}
+
+#user-offerbox-hint {
+	
+	text-align: center;
+	padding-top: 100px;
+	
+}
+
+#bots-offerbox-hint {
+	
+	text-align: center;
+	padding-top: 85px;
+	
+}
+
+.transhint {
+	
+	animation: transhint 3s infinite;
+	
+}
+
+@keyframes transhint {
+	
+	0% {
+		
+		transform: translate(0, 0);
+		
+	}
+	
+	50% {
+	
+		transform: translate(0, 20px);
+
+	}
+	
+	100% {
+		
+		transform: translate(0, 0px);
+		
+	}
+	
+}
+
+.ib-text {
+	
+	color: azure;
+	font-size: 95%;
+	
+}
+
+.ib-text-bold {
+	
+	color: azure;
+	font-size: 100%;
+	font-weight: bold;
+	
+}
+
+#fib-header {
+	
+	width: 100%;
+	height: 30px;
+	text-align: center;
+	background: rgba(20, 19, 26, 1);
+	padding-top: 4px;
+	
+}
+
+#fib-container {
+	
+	width: 100%;
+	height: 330px;
+	background: rgba(20, 19, 26, 0.4);
+	text-align: center;
+	font-size: 150%;
+	padding-top: 10px;
+	
+}
+
+.green-text {
+	
+	color: forestgreen !important;
+	
+}
+
+.red-text {
+	
+	color: crimson !important;
+	
+}
+
+#trade-button-container, #trade-button-container-2 {
+	
+	margin-top: 15px;
+	width: 90%;
+	height: 50px;
+	background: rgba(23, 29, 33, 1);
+	border: 2px #0074D9 solid;
+	margin-left: 5%;
+	padding-top: 3px;
+	
+}
+
+#trade-button-container:hover, #trade-button-container-2:hover {
+	
+	cursor: pointer;
+	
+}
+
+.toggle.ios, .toggle-on.ios, .toggle-off.ios { 
+	
+	border-radius: 5px;
+	
+}
+
+.toggle.ios .toggle-handle { 
+	
+	border-radius: 200px;
+
+}
+
+.toggle-handle {
+	
+	width: 20px !important;
+	height: 20px !important;
+	
+}
+
+#i-withdraw {
+	
+	margin-top: 10px;
+	font-size: 60% !important;
+	margin-left: 20px;
+	text-align: right;
+	
+}
+
+.sm-text {
+	
+	font-size: 70%;
+	padding-left: 30px;
+	
+}
+
+#check-withdraw-button {
+	
+	margin-right: 20px;
+	
+}
+
+#bonus-button-container {
+	
+	margin-top: 15px;
+	width: 90%;
+	height: 60px;
+	background: rgba(23, 29, 33, 1);
+	border: 2px #0074D9 solid;
+	margin-left: 5%;
+	padding-top: 3px;
+	font-size: 65%;
+	text-align: center;
+	padding-top: 5px;
+	color: #0074D9;
+	
+}
+
+#bonus-button-container:hover {
+	
+	cursor: pointer;
+	
+}
+
+#fib-additional {
+	
+	margin-top: 20px;
+	font-size: 60%;
+	width: 80%;
+	height: 55px;
+	background: rgba(23, 29, 33, 0.7);
+	padding-top: 5px;
+	margin-left: 10%;
+	border-radius: 5%;
+	color: gainsboro;
+	
+}
+
+#img-games-contaiter-user, #img-games-contaiter-bots {
+	
+	margin-top: 15px;
+	
+}
+
+.game-icon {
+	
+	margin-left: 10px;
+	
+}
+
+.game-icon:hover {
+	
+	cursor: pointer;
+	
+}
+
+.game-icon-b {
+	
+	margin-right: 10px;
+	
+}
+
+.game-icon-d {
+	
+	margin-right: 5px;
+	
+}
+
+.game-icon-b:hover {
+	
+	cursor: pointer;
+	
+}
+
+.main-game {
+	
+	border-bottom: 2px aquamarine solid;
+	border-radius: 3px;
+	
+}
+
+.csgo-i {
+
+	margin-left: 3px;
+	
+}
+
+.csgo-i-u {
+
+	margin-right: 3px;
+	
+}
+
+#user-inventory-header, #bots-inventory-header {
+	
+	width: 100%;
+	height: 60px;
+	background: rgba(20, 19, 26, 1);
+	padding: 15px 25px 0 25px;
+	margin-top: 5px;
+	
+}
+
+#search-input-user {
+	
+	width: 340px;
+	margin-top: -3px;
+	
+}
+
+#refresh-user {
+	
+	margin-left: 5px;
+	position: absolute;
+	right: 35px;
+
+	
+}
+
+#refresh-user:hover {
+	
+	cursor: pointer;
+	background: url('../src/img/refresh-c.png');
+	background-size: 32px 32px;
+	
+}
+
+#refresh-bots {
+	
+	margin-right: 5px;
+	margin-left: -5px;
+	margin-top: 0px;
+	float: left;
+	
+}
+
+#refresh-bots:hover {
+	
+	cursor: pointer;
+	background: url('../src/img/refresh-c.png');
+	background-size: 32px 32px;
+	
+}
+
+#search-input-bots {
+	
+	width: 340px;
+	margin-top: -3px;
+	
+}
+
+#bots-inventory-body, #user-inventory-body {
+	
+	width: 100%;
+	height: 500px;
+	background: rgba(20, 19, 26, 0.4);
+	
+}
+
+#second-info-block {
+	
+	margin-top: 55px;
+	
+}
+
+#third-info-block {
+	
+	margin-top: 15px;
+	
+}
+
+#second-info-block-header, #third-info-block-header {
+	
+	width: 100%;
+	height: 30px;
+	text-align: center;
+	background: rgba(20, 19, 26, 1);
+	padding-top: 4px;
+	color: azure;
+	
+}
+
+#second-info-block-body {
+	
+	width: 100%;
+	height: 200px;
+	background: rgba(20, 19, 26, 0.4);
+	text-align: center;
+	
+}
+
+#third-info-block-body {
+	
+	width: 100%;
+	height: 285px;
+	background: rgba(20, 19, 26, 0.4);
+	color: azure;
+	text-align: center;
+	padding-top: 10px;
+	
+}
+
+#user-inventory-blogin-text {
+	
+	text-align: center;
+	padding-top: 220px;
+	
+}
+
+#uibt-steam {
+	
+	margin-top: -5px;
+	
+}
+
+.emerald-color {
+	
+	color: #50C878;
+	
+}
+
+.login-via:hover {
+	
+	color: azure;
+	cursor: pointer;
+	
+}
+
+.lm-text {
+	
+	font-size: 85%;
+	
+}
+
+#bots-items-container {
+	
+	padding: 15px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	height: 500px;
+	
+}
+
+.csgo-item {
+	
+	height: 156px;
+	width: 128px;
+	background-color: rgba(22, 22, 22, 0.8);
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	
+}
+
+.csgo-item-st-border {
+	
+	border: 1px orange solid;
+	
+}
+
+.csgo-item:hover {
+	
+	cursor: pointer;
+	background-color: rgba(255, 255, 255, 0.3);
+	
+}
+
+.csgo-item-bg {
+	
+	height: 124px;
+	width: 124px;
+	background-repeat: no-repeat;
+	background-size: 124px 114px;
+	margin: 0 auto;
+	
+}
+
+.sm-text {
+	
+	font-size: 60%;
+	
+}
+
+.sm-text-1 {
+	
+	font-size: 70%;
+	
+}
+
+.sm-text-05 {
+	
+	font-size: 65%;
+	
+}
+
+.sm-text-2 {
+	
+	font-size: 75%;
+	
+}
+
+.sm-text-4 {
+	
+	font-size: 90%;
+	
+}
+
+.sm-text-3 {
+	
+	font-size: 80%;
+	
+}
+
+.winf-text {
+	
+	padding-right: 5px;
+	padding-top: 2px;
+	font-weight: bold;
+	
+}
+
+.bottom-price {
+	
+	position: relative;
+	text-align: center;
+	top: -20px;
+	font-weight: bold;
+	background-color: rgba(255, 255, 255, 0.2);
+	width: 65%;
+	margin: auto;
+	border-bottom-left-radius: 10%;
+	border-top-left-radius: 10%;
+	border-bottom-right-radius: 10%;
+	border-top-right-radius: 10%;
+	
+}
+
+.csgo-wico {
+	
+	position: absolute;
+	margin-top: 10px;
+	
+}
+
+hr {
+	
+	border-color: aquamarine;
+	width: 60%;
+	border-radius: 50%;
+	margin: 10px;
+	margin-left: 19%;
+	
+}
+
+#priceFrom, #priceTo {
+	
+	width: 100px;
+	height: 30px;
+	border: none;
+	text-align: center;
+	font-weight: bold;
+	
+}
+
+#priceFrom {
+	
+	margin-left: 10px;
+	margin-top: 10px;
+	
+}
+
+#priceTo {
+	
+	margin-right: 10px;
+	margin-top: 10px;
+	
+}
+
+#dollarSign {
+	
+	text-align: center;
+	font-size: 200%;
+	font-weight: bold;
+	color: aquamarine;
+	
+}
+
+#priceSlider {
+
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
+	
+}
+
+.noUi-horizontal {
+	
+	height: 6px !important;
+	
+}
+
+.noUi-handle {
+	
+  height: 16px !important;
+	width: 16px !important;
+	border-radius: 50%;
+	margin-right: 9px;
+	
+}
+
+.noUi-handle::before, .noUi-handle::after {
+	
+	display: none !important;
+	
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.white-bold-text {
+	
+	font-weight: bold;
+	color: azure;
+	
+}
+
+#botLockContainer {
+	
+	margin-top: 20px;
+	margin-left: 20px;
+	text-align: right;
+	
+}
+
+#stattrakContainer, #stickersContainer {
+	
+	margin-top: 10px;
+	margin-left: 20px;
+	text-align: right;
+	
+}
+
+@media (max-width: 768px) {
+	
+	.st-info {
+		
+		display: none;
+		
+	}
+	
+	.ou-info {
+		
+		display: none;
+		
+	}
+	
+	.ftci {
+		
+		display: none;
+		
+	}
+	
+	.ftcc {
+		
+		display: none;
+		
+	}
+	
+	#signup-div {
+		
+		margin-left: 5px !important;
+		
+	}
+	
+	#choose-text-container {
+		
+		margin-left: 5px !important;
+		
+	}
+	
+	.choose-text {
+		
+		font-size: 120% !important;
+		
+	}
+	
+}
+
+@media (max-width: 1800px) {
+	
+	#userSortMode, #i-withdraw, #botSortMode {
+		
+		display: none;
+		
+	}
+	
+}
+
+@media (max-width: 1640px) {
+	
+	#info-row {
+		
+		display: none;
+		
+	}
+	
+	#search-input-bots, #search-input-user {
+		
+		width: 250px;
+		
+	}
+	
+	#user-offerbox-header {
+		
+		margin-top: 60px;
+		
+	}
+	
+	#user-sort-div {
+		
+		display: none;
+		
+	}
+	
+	#bots-sort-div {
+		
+		display: none;
+		
+	}
+	
+}
+
+@media (max-width: 992px) {
+	
+	
+	#search-input-bots, #search-input-user {
+		
+		display: none;
+		
+	}
+	
+	#user-offerbox-header, #bots-offerbox-header {
+		
+		font-size: 85% !important;
+		
+	}
+	
+	#bots-offerbox-header, #user-offerbox-header {
+		
+		margin-top: 15px;
+		
+	}
+	
+	#bots-offerbox-body {
+		
+		padding: 15px !important;
+		overflow-y: auto;
+		
+	}
+	
+	#user-inventory-body {
+		
+		margin-bottom: 15px;
+		
+	}
+	
+	#userColumn, #botColumn {
+	
+		min-width: 483px;
+	
+	}
+	
+}
+
+@media (max-width: 768px) {
+	
+	
+	#userColumn, #botColumn {
+	
+		min-width: 600px;
+	
+	}
+	
+}
+
+@media (max-width: 620px) {
+	
+	
+	#userColumn, #botColumn {
+	
+		min-width: 483px;
+	
+	}
+	
+}
+
+@media (min-width: 1640px) {
+	
+	#trade-button-container-2 {
+		
+		display: none;
+		
+	}
+	
+}
+
+@media (min-width: 1980px) {
+	
+	#intro-jumbo {
+		
+		display: none;
+		
+	}
+	
+}
+
+#trade-button-container-2 {
+	
+	font-weight: bold;
+	text-align: center;
+	font-size: 180%;
+	margin: 0 0 10px 0;
+	width: 100%;
+	
+}
+
+.hidden {
+	
+	display: none;
+	
+}
+
+.csgo-lock, .csgo-st, .csgo-quality {
+	
+	width: 42px;
+	height: 20px;
+	float: left;
+	text-align: center;
+	
+}
+
+.csgo-lock {
+	
+	margin-top: -3px;
+	margin-left: -2px;
+
+	
+}
+
+.csgo-quality {
+	
+	text-align: right;
+	
+}
+
+.csgo-st {
+	
+	color: darkorange;
+	font-weight: bold;
+	padding-left: 5px;
+	padding-top: 2px;
+	text-align: left;
+	
+}
+
+.csgo-itemname, .csgo-itemfloat,
+.csgo-itembotid, .csgo-itemtimelock {
+	
+	width: 200px;
+	height: 20px;
+	margin-left: 10px;
+	margin-bottom: 3px;
+	
+}
+
+.csgo-itemname {
+	
+	white-space: nowrap;
+	
+}
+
+.csgo-stickercontainer {
+	
+	margin-left: 8px;
+	margin-top: 10px;
+	
+}
+
+.csgo-sticker {
+	
+	float: left;
+	height: 48px;
+	width: 48px;
+	margin-right: 3px;
+	
+}
+
+.csgo-adv-price {
+	
+	width: 1px;
+	height: 1px;
+	float: left;
+	text-align: right;
+	background-color: black;
+	margin-top: 3px;
+	font-size: 60%;
+	padding-top: 2px;
+	text-align: center;
+	font-weight: bold;
+	background-color: rgba(255, 255, 255, 0.2);
+	border-bottom-left-radius: 10%;
+	border-top-left-radius: 10%;
+	border-bottom-right-radius: 10%;
+	border-top-right-radius: 10%;
+}
+
+.tooltiptext {
+	
+  visibility: hidden;
+  width: 218px;
+	height: 20px;
+	font-size: 70%;
+  background-color: rgba(35, 35, 35, 1);
+  color: azure;
+  text-align: center;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+	
+}
+
+.csgo-sticker:hover .tooltiptext {
+	
+	visibility: visible;
+	
+}
+
+.gameunav {
+	
+	margin-right: 10px !important;
+	
+}
+
+.gameimgdiv {
+	
+	float: left;
+	margin-right: 5px;
+	
+}
+
+.gameimgdiv:hover .tooltiptext {
+	
+	visibility: visible;
+	padding-top: 2px;
+	
+}
+
+#bots-sort-div {
+	
+	margin-left: 50px;
+	margin-top: -3px;
+	
+}
+
+#user-sort-div {
+	
+	margin-right: 50px;
+	margin-top: -3px;
+	float: left;
+	position: relative;
+	
+}
+
+#botsDropdownMenuButton, #userDropdownMenuButton {
+	
+	background-color: transparent !important;
+	
+}
+
+#bots-offerbox-items {
+	
+	padding: 15px;
+	overflow-y: auto;
+	height: 300px;
+	
+}
+
+.dropdown-item:hover, #ddNavbar:hover {
+	
+	cursor: pointer;
+	
+}
+
+#steamlogin:hover {
+	
+	cursor: pointer;
+	
+}
+
+#maintDiv {
+	
+	display: none;
+	width: 100%;
+	height: 100%;
+	background: rgba(37, 37, 37, 0.9);
+	z-index: 100;
+	position:fixed;
+	color: aliceblue;
+	font-size: 150%;
+	
+}
+
+#maintText {
+	
+	overflow: hidden;
+	margin-left: 10px;
+	-webkit-animation: color-change 5s infinite;
+  -moz-animation: color-change 5s infinite;
+  -o-animation: color-change 5s infinite;
+  -ms-animation: color-change 5s infinite;
+  animation: color-change 5s infinite;
+	padding: 30px;
+	
+}
+
+@-webkit-keyframes color-change {
+    0% { color: aliceblue; }
+    50% { color: aqua; }
+    100% { color: aliceblue; }
+}
+@-moz-keyframes color-change {
+    0% { color: aliceblue; }
+    50% { color: aqua; }
+    100% { color: aliceblue; }
+}
+@-ms-keyframes color-change {
+    0% { color: aliceblue; }
+    50% { color: aqua; }
+    100% { color: aliceblue; }
+}
+@-o-keyframes color-change {
+    0% { color: aliceblue; }
+    50% { color: aqua; }
+    100% { color: aliceblue; }
+}
+@keyframes color-change {
+   	0% { color: aliceblue; }
+    50% { color: aqua; }
+    100% { color: aliceblue; }
+}
+
+#waitDiv {
+	
+	position: relative;
+	margin-left: 275px;
+	margin-top: 165px;
+	
+}
+
+#wCloak {
+	
+	position: absolute;
+	padding-left: 50px;
+	padding-top: 15px;
+	
+}
+
+#waitCloak {
+	
+	animation: rotating 2s linear infinite;
+	
+}
+
+@keyframes rotating {
+  0%   { transform: rotate(0deg); }
+	50%  { transform: rotate(-180deg); }
+  100% { transform: rotate(-360deg); }
+}
