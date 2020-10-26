@@ -8,6 +8,7 @@ Bugs may occur, requires some fixes for commertial use.
 
 Tools: HTTP, CSS, JS, jQuery, Bootstrap, NoUiSlider, PHP, MySQL.  
 
+Main part of code can be found [here!](https://github.com/AmbiWS/Steam-CS-GO-Trading-Website-Frontend-Template/tree/main/src)  
 Specifically current project represents main page for trading, and including:  
 * Trading page design
 * Static json file with CS:GO items as example (parsed from loot.farm website)
